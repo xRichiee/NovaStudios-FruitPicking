@@ -1,0 +1,21 @@
+    -- Nova Fruit Picking
+
+    ['orange'] = {
+        label = 'Orange',
+        weight = 10,
+    },
+
+    ['apple'] = {
+        label = 'Apple',
+        weight = 10,
+    },
+
+    ['pear'] = {
+        label = 'Pear',
+        weight = 10,
+    },
+
+    ['shears'] = {
+        label = 'Shears',
+        weight = 10,
+    },
